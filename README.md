@@ -1,4 +1,4 @@
-# QAP 4 - Advanced Java: Persisting Data with a Database and a Text File
+# QAP 4 - Java: Persisting Data with a Database and a Text File
 
 ## Project Description
 This project demonstrates two common Java persistence techniques:
