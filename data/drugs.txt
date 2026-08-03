@@ -1,0 +1,7 @@
+10000001,Paracetamol,5.99,500mg
+10000002,Ibuprofen,7.49,200mg
+12345678,fluoxetine,25.0,12
+12345678,Fluoxetine,30.0,
+12345678,Fluoxetine,30.0,22
+12345687,Fluoxetine,35.0,22
+21345678,Methilhydrate,45.0,22
