@@ -1,3 +1,5 @@
+
+
 # QAP 4 - Java: Persisting Data with a Database and a Text File
 
 ## Project Description
@@ -95,4 +97,4 @@ I did not need to ask any questions to instructors for help solving problems.
 
 I feel confident in the current level of skills represented in this assessment.
 
-Thank you for the practice and any tips!
+Thank you!
